@@ -4,8 +4,6 @@ LeapMotion
 Navegacion 3D mediante leapMotion
 
 
-Navegación 3D
-
 Introducción:
 
 Utilizando leap motion se ha diseñado un programa para actuando en background pudiendo controlar el ratón y teclado mediante gestos. Principalmente se ha diseñado para utilizarse en entornos 3D como autocad o 3Ds max, pero el objetivo real de esto es demostrar como se puede utilizar leap motion para poder interaccionar con el ordenador sin necesitar ratón o teclado. Como contra se puede decir que esta tarea es bastante cansada, hay que tener la mano alzada y en movimiento en todo momento.
