@@ -23,6 +23,6 @@ Gestos:
 -Rotar. Haciendo un gesto circular con un solo dedo se activara la rotación, solo entonces se podrá mover la mano libremente para rotar el objeto. Para terminar la rotación habrá que volver a hacer el mismo gesto.
 
 
-Terminar el programa:
+Finalizar aplicación:
 
 Para terminar el programa y liberar el ratón hay que mantener la dos manos sobre el leap motion 2 segundos y que ningún gesto este activo. 
